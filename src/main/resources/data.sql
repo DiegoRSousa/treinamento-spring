@@ -1,0 +1,1 @@
+insert into categoria (descricao) values ('Frutas')
